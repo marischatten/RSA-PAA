@@ -1,0 +1,10 @@
+C:\Users\marisangila.alves\Downloads\Trabalho PAA- RSA\ConsoleApplication5\bin\x64\Debug\Criptografia RSA.exe.config
+C:\Users\marisangila.alves\Downloads\Trabalho PAA- RSA\ConsoleApplication5\bin\x64\Debug\Criptografia RSA.exe
+C:\Users\marisangila.alves\Downloads\Trabalho PAA- RSA\ConsoleApplication5\bin\x64\Debug\Criptografia RSA.pdb
+C:\Users\marisangila.alves\Downloads\Trabalho PAA- RSA\ConsoleApplication5\obj\x64\Debug\CriptografiaRSA.csprojAssemblyReference.cache
+C:\Users\marisangila.alves\Downloads\Trabalho PAA- RSA\ConsoleApplication5\obj\x64\Debug\Criptografia RSA.exe
+C:\Users\marisangila.alves\Downloads\Trabalho PAA- RSA\ConsoleApplication5\obj\x64\Debug\Criptografia RSA.pdb
+C:\Users\marisangila.alves\Desktop\TrabalhoRSAFinal28_11-master\TrabalhoRSAFinal28_11-master\Trabalho PAA- RSA\ConsoleApplication5\bin\x64\Debug\Criptografia RSA.exe.config
+C:\Users\marisangila.alves\Desktop\TrabalhoRSAFinal28_11-master\TrabalhoRSAFinal28_11-master\Trabalho PAA- RSA\ConsoleApplication5\obj\x64\Debug\Criptografia RSA.exe
+C:\Users\marisangila.alves\Desktop\TrabalhoRSAFinal28_11-master\TrabalhoRSAFinal28_11-master\Trabalho PAA- RSA\ConsoleApplication5\obj\x64\Debug\Criptografia RSA.pdb
+C:\Users\marisangila.alves\Desktop\TrabalhoRSAFinal28_11-master\TrabalhoRSAFinal28_11-master\Trabalho PAA- RSA\ConsoleApplication5\obj\x64\Debug\CriptografiaRSA.csprojResolveAssemblyReference.cache

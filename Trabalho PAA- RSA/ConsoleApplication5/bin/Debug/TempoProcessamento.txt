@@ -1,0 +1,1 @@
+CRIPTOGRAFIA - Tempo: 0 segundos para gerar chaves para uma mensagem de 8 caracteres
